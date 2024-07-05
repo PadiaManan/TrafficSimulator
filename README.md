@@ -33,7 +33,3 @@ OR using npm
 npm install
 npm start
 ```
-
-## Contribute
-
-You can fork this repo and send me a PR.
